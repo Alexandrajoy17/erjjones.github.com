@@ -8,7 +8,7 @@ month: 02
 day: 07
 published: true
 summary: My first real post using Jekyll and Github. 
-image: post_four.png
+image: keyboard.jpg
 ---
 
 ##First Real Post##

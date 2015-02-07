@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #
 # This file contains configuration flags to customize your site
 #
@@ -71,3 +72,9 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+=======
+auto: true
+markdown: rdiscount
+pygments: true
+permalink: /blog/:title
+>>>>>>> origin/master
